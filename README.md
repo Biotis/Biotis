@@ -69,6 +69,9 @@ C1: 예문을 통한 영단어 학습 C2: 자동 생성 스토리를 통한 영�
 **Version Control:** Git / Github<br>
 **Algorithm:** `https://www.acmicpc.net/user/rhjung2001`<br>
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhjung2001)](https://solved.ac/rhjung2001/)
+
 ---
 
 ## 자격증
