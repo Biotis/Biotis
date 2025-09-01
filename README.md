@@ -62,12 +62,12 @@ C1: 예문을 통한 영단어 학습 C2: 자동 생성 스토리를 통한 영�
 
 ## 기술 스택
 
-**Languages: Python, SQL, C, Java, HTML, CSS**<br>
-**Data Analytics / ML: PySpark, Pandas, NumPy, PyTorch, TensorFlow, Keras**<br>
-**Infrastructure / DevOps: Docker, Apache Airflow**<br>
-**Web: FastAPI, React(Vite), MongoDB**<br>
-**Version Control: Git / Github**<br>
-**Algorithm: `https://www.acmicpc.net/user/rhjung2001`**<br>
+**Languages:** Python, SQL, C, Java, HTML, CSS<br>
+**Data Analytics / ML:** PySpark, Pandas, NumPy, PyTorch, TensorFlow, Keras<br>
+**Infrastructure / DevOps:** Docker, Apache Airflow<br>
+**Web:** FastAPI, React(Vite), MongoDB<br>
+**Version Control:** Git / Github<br>
+**Algorithm:** `https://www.acmicpc.net/user/rhjung2001`<br>
 
 ---
 
