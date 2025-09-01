@@ -21,12 +21,12 @@
 
 한국 기업 데이터 정보를 수집 -> 전처리 -> 사업자등록번호 검증 -> 데이터 형식 변환 프로세스를 자동화한 파이프라인 구축 프로젝트
 
-- **기술**: Python
+- **기술**: Python, Apache Airflow
 - **역할**: ETL 설계 및 구현, API 인증 처리
 - **주요 성과**:
   - OpenDART API로 기업 데이터 수집
   - 국세청(NTS) API로 사업자등록번호 유효성 검사
-  - 데이터 형식 변환 및 저장 자동화
+  - Airflow를 이용한 ETL 파이프라인 자동화
 ---
 
 ### 🔹 [모바일 앱 카테고리별 사용량과 정신 건강과의 상관관계 데이터분석](https://github.com/Biotis/AppUsageMentalHealthAnalysis)
